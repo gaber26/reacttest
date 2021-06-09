@@ -1,0 +1,15 @@
+
+.search{
+    width: 600px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.btn {
+    margin-left: 20px;
+}
+.edit {
+    margin-right: 10px;
+}
+.row {
+    margin-bottom: 20px;
+}
